@@ -1,0 +1,1 @@
+# N1QL query optimization in Couchbase
