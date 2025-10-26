@@ -110,7 +110,7 @@ How does N1QL’s optimizer handle queries differently from traditional SQL data
 ### 📅 **Day 3 – CRUD SDK Documentation + Review**
 - [ ] Write reference doc for CRUD SDK (Node.js).  
 - [ ] Include all 4 operations + error handling section.  
-- [ ] Test small snippets if possible.  
+- [x] Test small snippets if possible.  
 - [ ] Summarize best practices for SDK-based access.  
 - [ ] Review all documents for consistency, tone, and flow.  
 - [ ] Optional: Summarize top 3 HackerRank learnings in README.  
